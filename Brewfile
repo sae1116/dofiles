@@ -1,12 +1,9 @@
 cask_args appdir: '/Applications'
 tap 'caskroom/cask'
-cask 'atom'
 cask 'firefox'
 cask 'flux'
-cask 'google-chrome'
 cask 'java'
 cask 'opera'
-cask 'slack'
 
 brew 'editorconfig'
 brew 'git'
